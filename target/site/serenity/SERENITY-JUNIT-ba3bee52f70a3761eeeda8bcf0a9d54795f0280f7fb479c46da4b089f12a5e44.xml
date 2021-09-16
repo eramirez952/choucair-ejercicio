@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Academy Choucair" skipped="0" tests="1" time="7.89" timestamp="2021-09-16 11:48:56"><testcase name="Search for a automation course"><error type="java.lang.ExceptionInInitializerError"/><system-err>null&#13;
+cucumber.deps.com.thoughtworks.xstream.XStream.setupConverters(XStream.java:820)&#13;
+cucumber.deps.com.thoughtworks.xstream.XStream.&lt;init&gt;(XStream.java:574)&#13;
+cucumber.deps.com.thoughtworks.xstream.XStream.&lt;init&gt;(XStream.java:530)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+✽.than brandon wants to learn automation at the academy choucair(src/test/resources/features/academyChoucair.feature:7)&#13;
+</system-err></testcase></testsuite>
